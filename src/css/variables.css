@@ -1,0 +1,15 @@
+:root {
+    --verde-escuro: #5C6F2B;
+    --laranja: #DE802B;
+    --bege: #D8C9A7;
+    --gelo: #EEEEEE;
+    --rosa-favorito: #e84767; /* O rosa que você pediu para o coração */
+    --preto-suave: #1a1a1a;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Garante que padding não aumente o tamanho da caixa */
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
